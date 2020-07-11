@@ -44,11 +44,11 @@ ___
 
 <!--UL-->
 
-* item 1
-* item 2
+* Item 1
+* Item 2
   * Nasted item 1
   * Nasted item 2
-* item 3
+* Item 3
 
 <!--OL-->
 
