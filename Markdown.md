@@ -40,7 +40,7 @@ ___
 
 [Martin Růžek](https://martinruzek.eu)
 
-[Martin Růžek](https://martinruzek.eu "Ahoj")
+[Martin Růžek](https://martinruzek.eu "Hi")
 
 <!--UL-->
 
@@ -62,7 +62,7 @@ ___
 
 <!--IMG-->
 
-![Moje Logo](http://new.martinruzek.eu/img/logo.jpg)
+![My Logo](http://new.martinruzek.eu/img/logo.jpg)
 
 <!--Github Markdown -->
 
@@ -74,18 +74,18 @@ npm start
 ```
 
 ```javascript
-function ahoj() {
-    console.log("ahoj");
+function hello() {
+    console.log("Hello!");
 }
 ```
 
 <!--tables-->
 
-| Name   | Email                |
-| ------ | -------------------- |
-| Martin | mata.ruzek@gmail.com |
-| Nela   | nela@seznam.cz       |
-| Lucka  | lucka@outlook.com    |
+| Name   | Email             |
+| ------ | ----------------- |
+| Martin | martin@gmail.com  |
+| Nela   | nela@seznam.cz    |
+| Lucka  | lucka@outlook.com |
 
 <!-- Task Lists -->
 * [x] Task 1
